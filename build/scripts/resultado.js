@@ -1,0 +1,1 @@
+let gerarTabuada=require("./tabuada"),numero=3,resultado=gerarTabuada(numero);
