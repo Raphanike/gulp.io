@@ -1,1 +1,0 @@
-function gerarTabuada(o){console.log(`Tabuada do ${o}:`);for(let a=1;a<=10;a++)console.log(`${o} x ${a} = `+o*a)}let numero=4;gerarTabuada(numero),module.exports=gerarTabuada;
